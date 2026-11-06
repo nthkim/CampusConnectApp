@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly book appointments for academic subjects, allowing students to select time slots with tutors for personalized learning support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
